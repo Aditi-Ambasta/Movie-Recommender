@@ -1,2 +1,2 @@
 # Movie-Recommender
-Movie reccom
+Designed and implemented a sophisticated Movie Recommender System using Python and Machine Learning techniques. Integrated a user-friendly Graphical User Interface (GUI) with Python Streamlit, enhancing the accessibility and engagement of the recommendation system. Leveraged algorithms to provide personalized movie suggestions, showcasing a blend of technical expertise and user-centric design.
